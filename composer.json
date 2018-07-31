@@ -1,0 +1,19 @@
+{
+    "require": {
+        "php": "^7.2",
+        "phpunit/phpunit": "^7.2"
+    },
+    "autoload": {
+        "psr-4": { "": "src/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "": "tests/" }
+    },
+    "authors": [
+        {
+            "name": "Jarek W",
+            "homepage": "https://github.com/JarekW"
+        }
+    ],
+    "license": "GPL-3.0-or-later"
+}
